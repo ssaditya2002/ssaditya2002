@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Surve
 - 👀 I’m interested Web Development
-- 🌱 I’m currently REACT
+- 🌱 I’m currently learning REACT
 - 💞️ I’m looking to collaborate on Django,Node JS
 - 📫 You can contact me on my email ssaditya2002@gmail.com
 
